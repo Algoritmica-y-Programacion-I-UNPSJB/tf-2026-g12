@@ -4,10 +4,10 @@
 **Interfaz / Modalidad:** Consola — 1 jugador  
 
 ## Integrantes y aportes
-- Mateo Carlos Cuellos Barrera
-- Mateo Miguel Mendez
-- Mariano Marcelo Jara
-- Amadeo Federico Fernández Jara
+- Mateo Carlos Cuellos Barrera (GitHub no informado)
+- Mateo Miguel Mendez (GitHub no informado)
+- Mariano Marcelo Jara (GitHub no informado)
+- Amadeo Federico Fernández Jara (GitHub no informado)
 
 ## Reglas y alcance
 La propuesta aprobada consiste en desarrollar Buscaminas por consola.
