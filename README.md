@@ -7,7 +7,7 @@
 - Mateo Carlos Cuellos Barrera (GitHub no informado)
 - Mateo Miguel Mendez (GitHub no informado)
 - Mariano Marcelo Jara (GitHub no informado)
-- Amadeo Federico Fernández Jara (GitHub no informado)
+- Amadeo Federico Fernández Jara (@AmaSB9)
 
 ## Reglas y alcance
 La propuesta aprobada consiste en desarrollar Buscaminas por consola.
